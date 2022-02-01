@@ -8,7 +8,7 @@
 
 
 I'm Steve, and I'm currently <b>retraining in application development</b>. In addition, I am currently in my final year where I am doing my exam preparations in the internship.
-I love working my way into new programs and taking on new challenges.
+I love working my way into new programs and taking on new challenges. :heart:
 
 ## Skills and Experience
 
