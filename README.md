@@ -1,5 +1,14 @@
 ![](https://panels-images.twitch.tv/panel-81861648-image-50968536-163b-45ee-a228-bf8be5e82145)
 
-- :v: Hey, I´m Steve aka humpeN183
-- What am i intrested in ❓ <b>frontend</b>
+## Steve humpeN
+
+I'm Steve, and I'm currently retraining in application development. In addition, I am currently in my final year where I am doing my exam preparations in the internship.
+I love working my way into new programs and taking on new challenges.
+
+## SKills and Experience
+
+
+
+
+
 
