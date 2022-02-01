@@ -10,7 +10,7 @@
 I'm Steve, and I'm currently <b>retraining in application development</b>. In addition, I am currently in my final year where I am doing my exam preparations in the internship.
 I love working my way into new programs and taking on new challenges.
 
-## SKills and Experience
+## Skills and Experience
 
 <a href="https://www.java.com/de/"><img align="left" width="32" height="32" src="https://user-images.githubusercontent.com/87671712/151947010-0bab4bbc-631d-43f5-9f83-4cbec1deb804.png"></a>
 
